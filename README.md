@@ -7,8 +7,9 @@ The promotion engine should be modular to allow for more promotion types to be a
 
 ## Promotion Engine High Level Design
 
+![image](https://user-images.githubusercontent.com/115500959/194984426-0eb35ced-1be7-4d54-9b46-de9441c69856.png)
 
-## Promotion Request & Response payload
+## Promotion Request & Response Payload
 ### Apply Promotion for Bundle Product
 ##### Method : POST
 ##### URI : www.pricingengine.com/api/apply/promotion/bundleproduct
