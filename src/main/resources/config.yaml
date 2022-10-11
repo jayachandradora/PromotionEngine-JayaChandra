@@ -1,0 +1,22 @@
+products:
+  - name: A
+    price: 50.0
+  - name: B
+    price: 30.0
+  - name: C
+    price: 20.0
+  - name: D
+    price: 15.0
+promotions:
+  - name: singleProductGroupPromotionA
+    products: ["A"]
+    quota: 3
+    promoted_price: 130.0
+  - name: singleProductGroupPromotionB
+    products: ["B"]
+    quota: 2
+    promoted_price: 45.0
+  - name: bundlePromotion
+    products: ["C", "D"]
+    quota: 2
+    promoted_price: 30.0
