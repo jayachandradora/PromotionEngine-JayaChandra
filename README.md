@@ -9,6 +9,8 @@ The promotion engine should be modular to allow for more promotion types to be a
 
 ![image](https://user-images.githubusercontent.com/115500959/194984426-0eb35ced-1be7-4d54-9b46-de9441c69856.png)
 
+Will ensure API Response would have in Milliseconds(SLA) not even secodonds.
+
 ## Promotion Request & Response Payload
 ### Apply Promotion for Bundle Product
 ##### Method : POST
