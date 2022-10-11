@@ -5,6 +5,9 @@ buy 'n' items of a SKU for a fixed price (3 A's for 130)
 buy SKU 1 & SKU 2 for a fixed price ( C + D = 30 )
 The promotion engine should be modular to allow for more promotion types to be added at a later date (e.g. a future promotion could be x% of a SKU unit price). For this coding exercise you can assume that the promotions will be mutually exclusive; in other words if one is applied the other promotions will not apply
 
+## Promotion Engine High Level Design
+
+
 ## Promotion Request & Response payload
 ### Apply Promotion for Bundle Product
 ##### Method : POST
