@@ -91,3 +91,10 @@ Total 370<br>
 1 * C -<br>
 1 * D <b>30</b><br>
 Total	280<br>
+
+#### Extending to this project 
+1. Create API for all these functionalities.<br>
+2. Keep track of applied promotion in user history level.<br>
+3. Orchastrate the API while adding item to the cart and promotions should apply based on knowledge driven approach instead of Event driven approach.<br>
+4. All these services should have single data base as a service.
+5. etc....
